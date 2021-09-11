@@ -1,6 +1,6 @@
-# Learn Redux
+# Reduxtagram
 
-A simple React + Redux implementation. 
+Its a old redux implementation of Instagram on client side.
 
 ## Running
 
